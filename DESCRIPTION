@@ -1,0 +1,12 @@
+Package: CrIMMixdata
+Type: Package
+Title: Datasets of CrIMMix
+Version: 0.1.1-9000
+Authors@R: c(person("Morgane", "Pierre-Jean", role = c("aut", "cre"), email ="mpierrejean.pro@gmail.com"))
+Description: This package contains real datasets in multi-omics.
+Depends:
+    R (>= 3.1.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
